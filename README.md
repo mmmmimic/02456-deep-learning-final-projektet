@@ -1,3 +1,4 @@
+# DIFF GRAPH U-NET: A DIFFERENTIAL GRAPH U-SHAPE NETWORK FOR GRAPH CLASSIFICATION
 ## Author
 Manxi Lin s192230
 
@@ -14,7 +15,7 @@ Unzip it in here
 - See `main.ipynb`
 - Proof of our result: `./screenshots`
 
-# DIFFPOOL
+## DIFFPOOL
 Repo Link https://github.com/RexYing/diffpool
 
 ## Introduction (from the origional repo)
