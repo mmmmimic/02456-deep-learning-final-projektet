@@ -1,4 +1,4 @@
-# DIFF GRAPH U-NET: A DIFFERENTIAL GRAPH U-SHAPE NETWORK FOR GRAPH CLASSIFICATION
+# DIFF GRAPH U-NET: A DIFFERENTIAL U-SHAPE NETWORK FOR GRAPH CLASSIFICATION
 ## Introduction
 Regarding GCNs, there are mainly three tasks: node classification, link prediction, and graph classification. This project focuses on the classification of graphics through Differentiable Pooling (DIFFPOOL). DIFFPOOL is a state-of-the-art pool module that can learn the hierarchical expression of graphics and combine various end-to-end GCN structures. Hence, in order to research the changes of a graph after several DIFFPOOL modules respectively, the visualizations for pooling has been fulfilled via rebuilding the graph. Apart from DIFFPOOL, this project also explored the possibility to build an encoder-decoder architecture via building such a U-net-like method for graph data. A novel GCN architecture DIFF Graph U-Net is proposed. 
 
