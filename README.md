@@ -2,6 +2,9 @@
 ## Introduction
 Recently, graph convolutional networks (GCNs) have been demonstrated efficient in learning graph representations. Regarding the down-sampling and up-sampling of non-Euclidean data, most existing methods are flat and lack robustness. We visualize the process of a state-of-the-art work DiffPool, and develop a novel differentiable module for upsampling called DiffUnpool. DiffPool and DiffUnpool learn soft cluster assignment for nodes via GCNs and multi-layer perceptrons respectively. To address the graph classification problem, based on DiffPool and DiffUnpool, we further propose an end-to-end encoder-decoder architecture, diff graph U-Net. Different from other U-shape models before, diff graph U-Net learns node embeddings hierarchically, and collect global features in residual fashion. Our experimental results show that our model yields an overall improvement of accuracy on 4 different data sets, compared with previous methods.  
 
+## Check our report
+https://github.com/mmmmimic/02456-deep-learning-final-projektet/blob/master/report.pdf
+
 ## Author
 Manxi Lin s192230
 
